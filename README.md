@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page
 
-Link for this Challenger made by myself:
+Link for this challenge made by myself:
 [Minha versão](https://rafaelontour.github.io/web)
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
