@@ -17,12 +17,12 @@ Responsividade usando a função clamp()
 
 Dispositivo móvel
 
-![](./visualização/mobile.mp4)
+![](./visualização/mobile.gif)
 
 Computador
 
-![](./visualização/pc.mp4)
+![](./visualização/pc.gif)
 
 Alterando tamanhos
 
-![](./visualização/alternando.mp4)
+![](./visualização/alternando.gif)
