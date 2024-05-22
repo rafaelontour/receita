@@ -11,7 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Semantic HTML5 markup
 - CSS custom properties
 
-Responsividade usando a função clamp()
+Responsividade usando a função clamp() e a propriedade width.
 
 ##
 
@@ -23,6 +23,6 @@ Computador
 
 ![](./visualização/pc.gif)
 
-Alterando tamanhos
+Alterando tamanho
 
 ![](./visualização/alternando.gif)
