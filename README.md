@@ -10,3 +10,19 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Semantic HTML5 markup
 - CSS custom properties
+
+Responsividade usando a função clamp()
+
+##
+
+Dispositivo móvel
+
+![](./visualização/mobile.mp4)
+
+Computador
+
+![](./visualização/pc.mp4)
+
+Alterando tamanhos
+
+![](./visualização/alternando.mp4)
