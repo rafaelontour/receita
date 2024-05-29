@@ -15,14 +15,14 @@ Responsividade usando a função clamp() e a propriedade width.
 
 ##
 
-Dispositivo móvel
+# Dispositivo móvel
 
 ![](./visualização/mobile.gif)
 
-Computador
+# Computador
 
 ![](./visualização/pc.gif)
 
-Alterando tamanho
+# Alterando tamanho
 
 ![](./visualização/alternando.gif)
